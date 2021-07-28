@@ -33,3 +33,12 @@ section {
   background-image: url(./banner.png);
   background-repeat: no-repeat;
 }
+section {
+  display: flex;
+  margin-bottom: 150px;
+}
+.dream-big {
+  background-image: url(./banner2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
